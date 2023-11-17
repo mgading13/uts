@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MTix</string>
+    <string-array name="movie_titles">
+        <item>Ada Apa Dengan Cinta 2</item>
+        <item>Avatar: The Way of Water </item>
+        <item>Captain Marvel</item>
+        <item>Saranjana: Kota Ghaib</item>
+        <item>Avengers: Infinity War</item>
+        <!-- Tambahkan judul film sesuai kebutuhan -->
+    </string-array>
+
+    <string-array name="movie_synopsis">
+        <item>14 tahun setelah percintaan mereka di sekolah menengah, Rangga dan Cinta bersatu kembali di Yogyakarta untuk menutup kisah mereka setelah Rangga meninggalkan Cinta tanpa penjelasan.</item>
+        <item>Mengisahkan keluarga Jake Sully bersama keluarga barunya yang terbentuk di planet Pandora. Setelah ancaman lama kembali menyerang untuk menyelesaikan apa yang sebelumnya dimulai, Jake harus bekerja sama dengan Neytiri dan tentara ras Navi untuk melindungi planet tercinta mereka.</item>
+        <item>Captain Marvel adalah superhero wanita dari Marvel yang mempunyai banyak kekuatan setara seperti Superman. Superhero yang bernama Carol Danvers ini awalnya merupakan seorang pilot luar angkasa, konon ia mendapatakan kekuatan supernya dari bangsa alien.</item>
+        <item>Saranjana dikenal sebagai kota gaib dari Pulau Kalimantan. Kisah tentang Saranjana pun sudah melegenda bagi masyarakat Kalimantan atau Borneo. Kota Saranjana menjadi misterius karena keberadaannya tidak tercatat dalam peta Indonesia. Bahkan Keberadaannya juga memiliki beragam versi.</item>
+        <item>The Avengers dan sekutu mereka harus bersedia mengorbankan segalanya dalam upaya untuk mengalahkan Thanos yang kuat sebelum ia berhasil menghancurkan alam semesta.</item>
+        <!-- Tambahkan sinopsis film sesuai kebutuhan -->
+    </string-array>
+
+    <integer-array name="poster">
+        <item>@drawable/aadc2</item>
+        <item>@drawable/avatar</item>
+        <item>@drawable/captain_marvel</item>
+        <item>@drawable/saranjana</item>
+        <item>@drawable/infinity_war</item>
+    </integer-array>
+
+
+</resources>

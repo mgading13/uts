@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/kuning">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:textStyle="bold"
+        android:textSize="45px"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="25dp"/>
+    <ImageView
+        android:id="@+id/back"
+        android:layout_width="60px"
+        android:layout_height="60px"
+        android:src="@drawable/outline_arrow_back_ios_24"
+        android:layout_marginTop="25dp"
+        android:layout_marginStart="13dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Settings and Privacy"
+        android:textSize="60px"
+        android:textStyle="bold"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="60dp"
+        android:textColor="@color/biru"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Account"
+        android:textStyle="bold"
+        android:textSize="40px"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="105dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="127dp"/>
+
+    <ImageView
+        android:layout_width="360dp"
+        android:layout_height="100dp"
+        android:src="@drawable/bingkai"
+        android:layout_marginTop="125dp"
+        android:layout_marginLeft="22dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Account"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="135dp"
+        android:layout_marginEnd="30dp"
+        android:drawableStart="@drawable/outline_account_circle_24"
+        android:drawableEnd="@drawable/outline_keyboard_arrow_right_24"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Change Password"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="165dp"
+        android:layout_marginEnd="30dp"
+        android:drawableStart="@drawable/outline_lock_24"
+        android:drawableEnd="@drawable/outline_keyboard_arrow_right_24"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Security"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="194dp"
+        android:layout_marginEnd="30dp"
+        android:drawableStart="@drawable/outline_privacy_tip_24"
+        android:drawableEnd="@drawable/outline_keyboard_arrow_right_24"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Need Help?"
+        android:textStyle="bold"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="242dp"/>
+
+    <ImageView
+        android:layout_width="360dp"
+        android:layout_height="100dp"
+        android:src="@drawable/bingkai"
+        android:layout_marginTop="262dp"
+        android:layout_marginLeft="22dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Customer Service"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="273dp"
+        android:layout_marginEnd="30dp"
+        android:drawableStart="@drawable/outline_call_24"
+        android:drawableEnd="@drawable/outline_keyboard_arrow_right_24"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginEnd="30dp"
+        android:drawableStart="@drawable/outline_email_24"
+        android:drawableEnd="@drawable/outline_keyboard_arrow_right_24"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FAQ"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="329dp"
+        android:layout_marginEnd="30dp"
+        android:drawableStart="@drawable/outline_question_mark_24"
+        android:drawableEnd="@drawable/outline_keyboard_arrow_right_24"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:textStyle="bold"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="377dp"/>
+
+    <ImageView
+        android:layout_width="360dp"
+        android:layout_height="77dp"
+        android:src="@drawable/bingkai"
+        android:layout_marginTop="398dp"
+        android:layout_marginLeft="22dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="408dp"
+        android:layout_marginEnd="30dp"
+        android:drawableStart="@drawable/outline_login_24"
+        android:drawableEnd="@drawable/outline_keyboard_arrow_right_24"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Log Out"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="440dp"
+        android:layout_marginEnd="30dp"
+        android:drawableStart="@drawable/baseline_logout_24"
+        android:drawableEnd="@drawable/outline_keyboard_arrow_right_24"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Display"
+        android:textStyle="bold"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="490dp"/>
+
+    <ImageView
+        android:layout_width="360dp"
+        android:layout_height="77dp"
+        android:src="@drawable/bingkai"
+        android:layout_marginTop="511dp"
+        android:layout_marginLeft="22dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Language"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="522dp"
+        android:layout_marginEnd="30dp"
+        android:drawableStart="@drawable/outline_language_24"
+        android:drawableEnd="@drawable/outline_keyboard_arrow_right_24"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Themes"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="553dp"
+        android:layout_marginEnd="30dp"
+        android:drawableStart="@drawable/outline_mode_24"
+        android:drawableEnd="@drawable/outline_keyboard_arrow_right_24"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:textStyle="bold"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="603dp"/>
+
+    <ImageView
+        android:layout_width="360dp"
+        android:layout_height="40dp"
+        android:src="@drawable/bingkai"
+        android:layout_marginTop="622dp"
+        android:layout_marginLeft="22dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" About Us"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="630dp"
+        android:layout_marginEnd="30dp"
+        android:drawableStart="@drawable/outline_supervised_user_circle_24"
+        android:drawableEnd="@drawable/outline_keyboard_arrow_right_24"/>
+
+</RelativeLayout>
